@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1528105610 source:c:\users\mihaita\desktop\proiect6\proiect6\main.c
+	<stdio.h>
+	<conio.h>
+
+1528209379 source:d:\proiect6\functii.c
+	"header.h"
+	<stdlib.h>
+
+1528208970 d:\proiect6\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1528209080 source:d:\proiect6\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"header.h"
+
+1528212920 source:c:\users\mihaita\desktop\proiect 6\proiect6\functii.c
+	"header.h"
+	<stdlib.h>
+
+1528208970 c:\users\mihaita\desktop\proiect 6\proiect6\header.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1528216481 source:c:\users\mihaita\desktop\proiect 6\proiect6\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"header.h"
+
